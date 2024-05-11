@@ -22,7 +22,8 @@ Tech Stack Requirements:
 * First Open Xampp Control Panel and start "Apache" And "MySQL".
 * Click on Admin Option of MySQL. And Create one empty database as "registration" in phpMyAdmin.
 
-Open Visual Studio Code:
+Open Visual Studio Code: 
+* Open Extracted Folder at Visual Studio.
 * Take New Terminal.
 
 Back-End
