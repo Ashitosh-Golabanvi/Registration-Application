@@ -1,4 +1,4 @@
-**I Have Implemented this project using "Django" as Back-End And "React-JS" as Front-end And MySQL AS Database.**
+**I Have Implemented this project using "Django" as Back-End And "React-JS" as Front-end And "MySQL" AS Database.**
  
 Required Packages:
 * Download And Install Python.
@@ -57,7 +57,7 @@ Front-End
 
 
 **Sample Input:**
- id: 1
- name: Joe
- email: joe@gmail.com
- Dob: 2000-02-01
+ * id: 1
+ * name: Joe
+ * email: joe@gmail.com
+ * Dob: 2000-02-01
