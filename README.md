@@ -28,7 +28,8 @@ Open Visual Studio Code:
 
 Back-End
 *  Go To "backend" Folder by using command: cd backend
-*  Go To : cd Env\Scripts   Then activate The Virtual Environment by command: activate or .\activate
+*  Get into Scripts file Of Env Folder by this command: cd Env\Scripts
+*  Then activate The Virtual Environment by command: activate or .\activate
 *  then go back to "backend" folder by command: cd ../.. 
 
 Install the following Packages:
