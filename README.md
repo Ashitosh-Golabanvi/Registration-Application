@@ -1,4 +1,4 @@
-**I Have Implemented this project using "Django" as Back-End And "React-JS" as Front-end.**
+**I Have Implemented this project using "Django" as Back-End And "React-JS" as Front-end And MySQL AS Database.**
 Required Packages:
 * Download And Install Python.
 * Download And Install Node-Js.
@@ -19,6 +19,7 @@ Tech Stack Requirements:
 **Execution Steps:** 
 
 * First Open Xampp Control Panel and start "Apache" And "MySQL".
+* Click on Admin Option of MySQL. And Create one empty database as "registration" in phpMyAdmin.
 
 Open Visual Studio Code:
 * Take New Terminal.
@@ -35,18 +36,20 @@ Install the following Packages:
 *  pip install django-cors-headers
 *  pip install djangorestframework
 *  pip install mysqlclient
-*  pip install pymysql 
-*  Create one empty database as "registration" in phpMyAdmin.
+*  pip install pymysql
+
+Run These Commands :  
+
 *  python manage.py makemigrations
 *  python manage.py  migrate
 *  python manage.py runserver
 
 
 Front-End
-* : Then Go To frontend Folder:  
-* : Install npm package by this command : npm install
-* : Install axios Library: npm i axios
-* : start the react app engine by command: npm start
+*  Go To frontend Folder:  
+*  Install npm package by this command : npm install
+*  Install axios Library by this commond: npm i axios
+*  start the react app engine by command: npm start
   
 
 
