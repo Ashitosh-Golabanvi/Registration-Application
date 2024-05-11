@@ -56,8 +56,8 @@ Front-End
   
 
 
-Sample Of Input :
-id: 1
-name: Joe
-email: joe@gmail.com
-Dob: 2000-02-01
+**Sample Input:**
+ id: 1
+ name: Joe
+ email: joe@gmail.com
+ Dob: 2000-02-01
